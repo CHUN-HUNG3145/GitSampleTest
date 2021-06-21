@@ -5,7 +5,7 @@ public class mainApp {
 		System.out.println("2nd version");
 		
 		//²Õ­û­×§ï
-		System.out.println(3rd version");
+		System.out.println("3rd version");
 	}
 
 }
